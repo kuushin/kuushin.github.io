@@ -623,7 +623,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("https://wx3.sinaimg.cn/mw2000/008j33FFly1h0ablceafcj31hc0u0wpp.jpg") no-repeat center/cover;
+  background: url("http://astc.syac.xyz/2022/03/18/c71c75444a768.jpg") no-repeat center/cover;
 }
 .container {
   white-space: normal;
@@ -889,7 +889,7 @@ body::after {
   z-index: 0;
   width: 100%;
   height: 100%;
-  background: url("https://wx3.sinaimg.cn/mw2000/008j33FFly1h0ablceafcj31hc0u0wpp.jpg") no-repeat center/cover;
+  background: url("https://i.postimg.cc/vTr490Q9/0048478-Ew-DR.png") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
